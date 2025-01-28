@@ -2,5 +2,4 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
-  - ipython=*
   - nbformat=*
